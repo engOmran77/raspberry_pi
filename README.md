@@ -1,5 +1,15 @@
 # raspberry_pi
 
+<h6>General References</h6>
+
+How to Clone Your Raspberry Pi SD Cards With Windows
+<br />
+https://computers.tutsplus.com/articles/how-to-clone-your-raspberry-pi-sd-cards-with-windows--mac-59294
+
+
+
+<br /><br /><br />
+
 Make Your Own Wireless Printer With A Raspberry Pi
 <br />
 https://www.makeuseof.com/tag/make-wireless-printer-raspberry-pi/
