@@ -6,6 +6,9 @@ How to Clone Your Raspberry Pi SD Cards With Windows
 <br />
 https://computers.tutsplus.com/articles/how-to-clone-your-raspberry-pi-sd-cards-with-windows--mac-59294
 
+5 Raspberry Pi Operating Systems That Aren’t Linux
+<br />
+https://www.makeuseof.com/tag/raspberry-pi-operating-systems-not-linux/
 
 
 <br /><br /><br />
