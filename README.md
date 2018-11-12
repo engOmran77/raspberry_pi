@@ -10,6 +10,16 @@ https://computers.tutsplus.com/articles/how-to-clone-your-raspberry-pi-sd-cards-
 <br />
 https://www.makeuseof.com/tag/raspberry-pi-operating-systems-not-linux/
 
+10 Cool Raspberry Pi + Windows 10 IoT Core Projects
+<br />
+https://www.makeuseof.com/tag/raspberry-pi-windows-10-iot-core-projects/
+
+How to Turn a Raspberry Pi Into a Plex Media Server
+<br />
+https://www.makeuseof.com/tag/raspberry-pi-plex-media-server/
+
+
+
 
 <br /><br /><br />
 
