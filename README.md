@@ -18,8 +18,18 @@ How to Turn a Raspberry Pi Into a Plex Media Server
 <br />
 https://www.makeuseof.com/tag/raspberry-pi-plex-media-server/
 
+How to Install Android on a Raspberry Pi
+<br />
+https://www.makeuseof.com/tag/install-android-raspberry-pi/
+
+7 New Raspbian Features to Start Using on Your Raspberry Pi
+<br />
+https://www.makeuseof.com/tag/new-raspbian-features/
 
 
+7 DIY Project Ideas for Putting an Old Raspberry Pi to Use
+<br />
+https://www.makeuseof.com/tag/old-raspberry-pi-projects/
 
 <br /><br /><br />
 
