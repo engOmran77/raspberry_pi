@@ -31,6 +31,10 @@ https://www.makeuseof.com/tag/new-raspbian-features/
 <br />
 https://www.makeuseof.com/tag/old-raspberry-pi-projects/
 
+Raspberry Pi 3 Model A+ review: A $25 computer with a lot of promise
+<br />
+https://www.techrepublic.com/article/raspberry-pi-3-model-a-review-a-25-computer-with-a-lot-of-promise/?ftag=TRE684d531&bhid=20357752725690277825929302313170
+
 <br /><br /><br />
 
 Make Your Own Wireless Printer With A Raspberry Pi
