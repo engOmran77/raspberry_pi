@@ -47,6 +47,12 @@ Powerful $39 Raspberry Pi clone: Rock Pi 4 promises smooth 4K video, NVMe SSD st
 <br />
 https://www.techrepublic.com/article/powerful-39-raspberry-pi-clone-rock-pi-4-promises-smooth-4k-video-nvme-ssd-storage-support-usb-3-0/?ftag=TRE684d531&bhid=20357752725690277825929302313170
 
+Android on Raspberry Pi: How to run Google's popular OS
+<br />
+https://www.techrepublic.com/article/android-on-raspberry-pi-how-to-run-googles-popular-os/?ftag=TRE684d531&bhid=20357752725690277825929302313170
+
+
+
 
 
 
