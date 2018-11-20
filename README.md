@@ -51,7 +51,21 @@ Android on Raspberry Pi: How to run Google's popular OS
 <br />
 https://www.techrepublic.com/article/android-on-raspberry-pi-how-to-run-googles-popular-os/?ftag=TRE684d531&bhid=20357752725690277825929302313170
 
+New LTE modem add-on board for Raspberry Pi eases IoT deployments
+<br />
+https://www.techrepublic.com/article/new-lte-modem-add-on-board-for-raspberry-pi-eases-iot-deployments/?ftag=TREe09998f&bhid=20357752725690277825929302313170
 
+Raspberry Pi and machine learning: How to get started
+<br />
+https://www.techrepublic.com/article/raspberry-pi-and-machine-learning-how-to-get-started/?ftag=TREe09998f&bhid=20357752725690277825929302313170
+
+Raspberry Pi: A cheat sheet
+<br />
+https://www.techrepublic.com/article/raspberry-pi-the-smart-persons-guide/?ftag=TREe09998f&bhid=20357752725690277825929302313170
+
+Choosing a Raspberry Pi OS? Here's the definitive list
+<br />
+https://www.techrepublic.com/pictures/choosing-a-raspberry-pi-os-heres-the-definitive-list/?ftag=TREe09998f&bhid=20357752725690277825929302313170
 
 
 
