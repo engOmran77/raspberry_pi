@@ -87,3 +87,8 @@ http://www.eecg.utoronto.ca/~prall/W7_samba_printer_setup.htm
 Setting up Automatic Printer Driver Downloads for Windows Clients
 <br />
 https://wiki.samba.org/index.php/Setting_up_Automatic_Printer_Driver_Downloads_for_Windows_Clients
+
+Add AirPrint Support To Your Raspberry Pi Print Server
+<br />
+https://www.makeuseof.com/tag/add-airprint-support-raspberry-pi-print-server/
+
