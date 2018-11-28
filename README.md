@@ -92,3 +92,7 @@ Add AirPrint Support To Your Raspberry Pi Print Server
 <br />
 https://www.makeuseof.com/tag/add-airprint-support-raspberry-pi-print-server/
 
+6 Ways to Print With a Raspberry Pi
+<br />
+https://www.makeuseof.com/tag/ways-print-raspberry-pi/
+
