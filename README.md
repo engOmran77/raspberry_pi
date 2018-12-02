@@ -43,6 +43,10 @@ Raspberry Pi 3 Model A+: A cheat sheet
 <br />
 https://www.techrepublic.com/article/raspberry-pi-3-model-a-a-cheat-sheet/?ftag=TRE684d531&bhid=20357752725690277825929302313170
 
+Raspberry Pi 3 Model A+ Unboxing
+<br />
+https://www.element14.com/community/docs/DOC-91123/l/raspberry-pi-3-model-a?CMP=e-email-ADH-e14-NA-301118-RPI-HERO
+
 Powerful $39 Raspberry Pi clone: Rock Pi 4 promises smooth 4K video, NVMe SSD storage support, USB 3.0
 <br />
 https://www.techrepublic.com/article/powerful-39-raspberry-pi-clone-rock-pi-4-promises-smooth-4k-video-nvme-ssd-storage-support-usb-3-0/?ftag=TRE684d531&bhid=20357752725690277825929302313170
